@@ -1,0 +1,314 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andrechenming.hopto.org" resolutions="1x" timestamp="1500208351875">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-__.css" crc="474107127" ref="generic:index"/>
+    <file name="works_1.css" crc="197391524" ref="works_1"/>
+    <file name="generic.css" crc="3887593894" ref="generic"/>
+    <file name="works_3.css" crc="4267723564" ref="works_3"/>
+    <file name="works.css" crc="4111933816" ref="works"/>
+    <file name="works_2.css" crc="3783459994" ref="works_2"/>
+    <file name="index.css" crc="4057903030" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="generic:index:works:works_1:works_2:works_3"/>
+    <file name="museutils.js" crc="4216313831" ref="generic:index:works:works_1:works_2:works_3"/>
+    <file name="whatinput.js" crc="86476730" ref="generic:index:works:works_1:works_2:works_3"/>
+    <file name="museconfig.js" crc="4177022356" ref="generic:index:works:works_1:works_2:works_3"/>
+    <file name="jquery.watch.js" crc="460461809" ref="generic:index:works:works_1:works_2:works_3"/>
+    <file name="webpro.js" crc="4143865194" ref="generic:works:works_1:works_2:works_3"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="generic:works:works_1:works_2:works_3"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="generic:works:works_1:works_2:works_3"/>
+    <file name="touchswipe.js" crc="4200445185" ref="generic:works:works_1:works_2:works_3"/>
+    <file name="require.js" crc="3951022091" ref="generic:index:works:works_1:works_2:works_3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="works"/>
+  </folder>
+  <folder name="images">
+    <file name="繪有愛-favicon.ico" crc="4132419176" ref="generic"/>
+    <file name="banner01 (1).jpg" crc="433415531" seo="true" ref="generic">
+      <caption webpage="generic" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="generic:works:works_1:works_2:works_3"/>
+    <file name="banner01 (2).jpg" crc="368126903" seo="true" ref="generic">
+      <caption webpage="generic" alt=""/>
+    </file>
+    <file name="banner01 (3).jpg" crc="323180890" seo="true" ref="generic">
+      <caption webpage="generic" alt=""/>
+    </file>
+    <file name="banner01 (4).jpg" crc="148461094" seo="true" ref="generic">
+      <caption webpage="generic" alt=""/>
+    </file>
+    <file name="banner01 (5).jpg" crc="277000885" seo="true" ref="generic">
+      <caption webpage="generic" alt=""/>
+    </file>
+    <file name="banner01 (6).jpg" crc="213829989" seo="true" ref="generic">
+      <caption webpage="generic" alt=""/>
+    </file>
+    <file name="banner01 (7).jpg" crc="4219054239" seo="true" ref="generic">
+      <caption webpage="generic" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="generic:works:works_1:works_2:works_3"/>
+    <file name="00-01.jpg" crc="3982891878" seo="true" ref="generic">
+      <caption webpage="generic" alt=""/>
+    </file>
+    <file name="fb-橫條節日版-03.png" crc="3823049581" seo="true" ref="generic">
+      <caption webpage="generic" alt=""/>
+    </file>
+    <file name="作品精選-favicon.ico" crc="4132419176" ref="works"/>
+    <file name="logo_works.png" crc="419769414" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="imag0886.jpg" crc="404223298" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="touch0102-29.jpg" crc="496746819" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (1).jpg" crc="370031688" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (2).jpg" crc="261837267" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (3).jpg" crc="79790744" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (4).jpg" crc="4287226864" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (5).jpg" crc="3825800432" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (6).jpg" crc="4247716660" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (8).jpg" crc="257835142" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (9).jpg" crc="4154467636" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="扁蝠俠 超人.jpg" crc="3818839538" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (1)256x134.jpg" crc="3825392445" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (2)256x134.jpg" crc="195429168" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (3)256x134.jpg" crc="3851940108" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (4)256x134.jpg" crc="4034385960" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (5)256x134.jpg" crc="4233043942" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (6)256x134.jpg" crc="3791235826" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (8)256x134.jpg" crc="24080109" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="draw (9)256x134.jpg" crc="127986275" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="扁蝠俠 超人256x134.jpg" crc="3832080434" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="on.png" crc="3853771241" ref="works:works_1:works_2:works_3">
+      <caption webpage="works_2" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works_1" alt=""/>
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="under.png" crc="4002919845" ref="works:works_1:works_2:works_3">
+      <caption webpage="works_2" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works_1" alt=""/>
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="human-rights-collage-favicon.ico" crc="4132419176" ref="works_1"/>
+    <file name="andre_logo01-30.png" crc="425582874" seo="true" ref="works_1:works_2:works_3">
+      <caption webpage="works_2" alt=""/>
+      <caption webpage="works_3" alt=""/>
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_01 (2).jpg" crc="3851463374" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_01 (3).jpg" crc="3863587356" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_01 (4).jpg" crc="4170234954" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_01 (5).jpg" crc="103467297" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_02 (3).jpg" crc="4241140873" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_01 (2)115x69.jpg" crc="58215006" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_01 (3)115x69.jpg" crc="333592583" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_01 (4)115x69.jpg" crc="3977818694" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_01 (5)115x69.jpg" crc="4118828545" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="work_02 (3)115x69.jpg" crc="514911552" seo="true" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="img_0395-花橫-黑2倒數.jpg" crc="4210754770" ref="works_1">
+      <caption webpage="works_1" alt=""/>
+    </file>
+    <file name="environment-collage-favicon.ico" crc="4132419176" ref="works_2"/>
+    <file name="work_02 (1).jpg" crc="4003451006" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="work_02 (2).jpg" crc="90218405" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="work_02 (4).jpg" crc="4200746669" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="work_02 (5).jpg" crc="300654246" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="work_02 (6).jpg" crc="3835025757" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="work_02 (1)115x70.jpg" crc="341493686" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="work_02 (2)115x70.jpg" crc="237022461" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="work_02 (4)115x70.jpg" crc="4110126622" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="work_02 (5)115x70.jpg" crc="509309737" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="work_02 (6)115x70.jpg" crc="340036612" seo="true" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="未命名-1.jpg" crc="4287484418" ref="works_2">
+      <caption webpage="works_2" alt=""/>
+    </file>
+    <file name="imag0886indx.jpg" crc="4203120565" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="fb-橫條-01.jpg" crc="261933162" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="imag0897.jpg" crc="396275962" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="imag0904.jpg" crc="204819572" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="imag0841_burst002.jpg" crc="188773713" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="imag0885.jpg" crc="4134153274" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-717368_960_720.jpg" crc="230892306" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-717379_960_720.jpg" crc="3924324689" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-841712_960_720.jpg" crc="4049365729" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-841713_960_720.jpg" crc="4166476444" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-841714_960_720.jpg" crc="4180272797" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="色誘.jpg" crc="4196992480" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="忌妒.jpg" crc="3857242165" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="耐心.jpg" crc="92212995" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="貪心.jpg" crc="13788949" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="寬容.jpg" crc="346168497" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="暴怒.jpg" crc="301170352" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="懶惰.jpg" crc="3828796299" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="imag089761x71.jpg" crc="3906473346" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="imag090461x71.jpg" crc="342326642" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="imag0841_burst00261x71.jpg" crc="498414701" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="imag088561x71.jpg" crc="4176170305" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-717368_960_72061x71.jpg" crc="494566293" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-717379_960_72061x71.jpg" crc="280085168" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-841712_960_72061x71.jpg" crc="311322904" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-841713_960_72061x71.jpg" crc="39686952" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="beer-coasters-841714_960_72061x71.jpg" crc="196584070" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="色誘61x71.jpg" crc="4138111969" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="忌妒61x71.jpg" crc="4044291055" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="耐心61x71.jpg" crc="470957768" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="貪心61x71.jpg" crc="4011715880" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="寬容61x71.jpg" crc="82081280" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="暴怒61x71.jpg" crc="64112737" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+    <file name="懶惰61x71.jpg" crc="4263429763" seo="true" ref="works_3">
+      <caption webpage="works_3" alt=""/>
+    </file>
+  </folder>
+  <file name="generic.html" crc="3954266576" seo="true" mt="1500208092524" redirect="true"/>
+  <file name="index.html" crc="3800628142" seo="true" mt="1500208319961" redirect="true"/>
+  <file name="works.html" crc="4209928262" seo="true" mt="1500206449427" redirect="true"/>
+  <file name="works_1.html" crc="454620835" seo="true" mt="1500207865702" redirect="true"/>
+  <file name="works_2.html" crc="4031091042" seo="true" mt="1500207017743" redirect="true"/>
+  <file name="works_3.html" crc="4177291229" seo="true" mt="1500207992533" redirect="true"/>
+</manifest>
